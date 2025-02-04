@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Enhanced Weather App
 
 ## Overview
@@ -66,4 +66,5 @@ To use the OpenWeather API, you'll need to sign up on [OpenWeather](https://open
 # Example:
 ```js
 const API_KEY = 'your-api-key-here';  // Replace with your OpenWeather API key
->>>>>>> 3ad72ed (Initial commit - Added Weather WebApp files)
+
+# weatherapp
