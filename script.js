@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-function showTime() {
-	document.getElementById('currentTime').innerHTML = new Date().toUTCString();
-}
-showTime();
-setInterval(function () {
-	showTime();
-}, 1000);
-=======
+<
     // Store temperature values globally for unit conversion
 let tempCelsius = null;
 let tempFahrenheit = null;
@@ -202,4 +194,4 @@ function errorCallback(error) {
 document.addEventListener('DOMContentLoaded', () => {
   getUserLocation(); // Call function to get user location on page load
 });
->>>>>>> 3ad72ed (Initial commit - Added Weather WebApp files)
+
